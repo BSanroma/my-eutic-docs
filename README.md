@@ -80,16 +80,17 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 
 ## 📊 Comparativa de Valor
 
-| Característica | My-Eutic | Plataformas Tradicionales | Chatbots Genéricos |
-|----------------|----------|---------------------------|--------------------|
-| **Metodología Socrática** | ✅ Nativa | ❌ No disponible | ⚠️ Limitada |
-| **Evita respuestas directas** | ✅ Siempre | ❌ N/A | ❌ Da respuestas completas |
-| **Pensamiento crítico** | ✅ Objetivo principal | ⚠️ Variable | ❌ No priorizado |
-| **Integración LMS** | ✅ LTI 1.3 estándar | ⚠️ Depende | ❌ No disponible |
-| **Personalización pedagógica** | ✅ Completa | ⚠️ Limitada | ❌ Genérica |
-| **Analíticas de aprendizaje** | ✅ Avanzadas | ⚠️ Básicas | ❌ Inexistentes |
-| **Privacidad educativa** | ✅ RGPD completo | ⚠️ Variable | ❌ Uso comercial |
-| **Enfoque educativo** | ✅ 100% educativo | ✅ Sí | ❌ Propósito general |
+| Característica                | My-Eutic        | Plataformas Tradicionales | Chatbots Genéricos      |
+|-------------------------------|-----------------|--------------------------|-------------------------|
+| **Metodología Socrática**     | ✅ Nativa       | ❌ No disponible         | ⚠️ Limitada             |
+| **Evita respuestas directas** | ✅ Siempre      | ❌ N/A                  | ❌ Da respuestas completas|
+| **Pensamiento crítico**       | ✅ Objetivo principal | ⚠️ Variable         | ❌ No priorizado        |
+| **Integración LMS**           | ✅ LTI 1.3 estándar | ⚠️ Depende           | ❌ No disponible        |
+| **Personalización pedagógica**| ✅ Completa     | ⚠️ Limitada             | ❌ Genérica             |
+| **Analíticas de aprendizaje** | ✅ Avanzadas    | ⚠️ Básicas               | ❌ Inexistentes         |
+| **Privacidad educativa**      | ✅ RGPD completo| ⚠️ Variable              | ❌ Uso comercial        |
+| **Enfoque educativo**         | ✅ 100% educativo | ✅ Sí                  | ❌ Propósito general    |
+| **Permite copiar/pegar**      | ❌ Nunca (solo proceso real) | ⚠️ Depende del formato | ✅ Siempre          |
 
 ---
 
