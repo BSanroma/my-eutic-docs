@@ -22,17 +22,9 @@ Encuentra toda la información relevante para medios de comunicación, centros e
 
 ---
 
-## Datos y cifras clave
-
-- **Pilotos reales** en centros educativos catalanes y universitarios
-- **Más de 250 estudiantes** han utilizado el sistema en pruebas de razonamiento socrático
-- **Documentación completa** y abierta para revisión pública
-
----
-
 ## Contacto para medios y relaciones institucionales
 
-- 📧 Email directo: prensa@my-eutic.org
+- 📧 Email directo: [contact@my-eutic.org](mailto:contact@my-eutic.org)
 - 🌐 Web oficial: [https://www.my-eutic.org](https://www.my-eutic.org)
 - LinkedIn: [Perfil institucional](https://linkedin.com/company/my-eutic)
 - Solicitud de entrevistas/demo personalizada: vía email o formulario web
