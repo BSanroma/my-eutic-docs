@@ -1,4 +1,5 @@
-# My-Eutic: Plataforma Educativa con IA Socrática
+# My-Eutic: Plataforma educativa con IA socrática
+# Adiós copiar/pegar: Hola penamiento crítico
 
 > **Transformando la educación mediante diálogos socráticos impulsados por inteligencia artificial**
 
@@ -28,15 +29,19 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 - 💡 **[FAQ Estudiantes](docs/faq.md#estudiantes)** - Resuelve tus dudas
 
 ### Para Instituciones
-- 🏛️ **[Implementación Institucional](docs/implementation.md)** - Despliegue a escala
-- 📰 **[Prensa y Medios](docs/prensa.md)** - Recursos para medios de comunicación
-- 🔒 **[Seguridad y Privacidad](docs/security.md)** - Cumplimiento normativo
-
+- 👩‍💼 [Guía para Directores de Centro](docs/guia-directores.md)
+- 🏛️ [Implementación Institucional](docs/implementation.md)
+- 📄 [Resumen Ejecutivo](docs/executive-summary.md)
+- 📰 [Prensa y Medios](docs/prensa.md)
+- 🔒 [Seguridad y Privacidad](docs/security.md)
+  
 ### Recursos Técnicos
 - 🏗️ **[Arquitectura Técnica](docs/architecture.md)** - Stack tecnológico
 - 🔧 **[Documentación API](docs/api.md)** - Integración técnica
 - 📊 **[Casos de Estudio](docs/case-studies.md)** - Resultados reales
 
+### Roadmap Tecnológico
+- 🏗️ **[Roadmap Tecnológico](docs/Roadmap.md)** - Roadmap tecnológico
 ---
 
 ## ✨ Claims Clave
@@ -75,16 +80,17 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 
 ## 📊 Comparativa de Valor
 
-| Característica | My-Eutic | Plataformas Tradicionales | Chatbots Genéricos |
-|----------------|----------|---------------------------|--------------------|
-| **Metodología Socrática** | ✅ Nativa | ❌ No disponible | ⚠️ Limitada |
-| **Evita respuestas directas** | ✅ Siempre | ❌ N/A | ❌ Da respuestas completas |
-| **Pensamiento crítico** | ✅ Objetivo principal | ⚠️ Variable | ❌ No priorizado |
-| **Integración LMS** | ✅ LTI 1.3 estándar | ⚠️ Depende | ❌ No disponible |
-| **Personalización pedagógica** | ✅ Completa | ⚠️ Limitada | ❌ Genérica |
-| **Analíticas de aprendizaje** | ✅ Avanzadas | ⚠️ Básicas | ❌ Inexistentes |
-| **Privacidad educativa** | ✅ RGPD completo | ⚠️ Variable | ❌ Uso comercial |
-| **Enfoque educativo** | ✅ 100% educativo | ✅ Sí | ❌ Propósito general |
+| Característica                | My-Eutic        | Plataformas Tradicionales | Chatbots Genéricos      |
+|-------------------------------|-----------------|--------------------------|-------------------------|
+| **Metodología Socrática**     | ✅ Nativa       | ❌ No disponible         | ⚠️ Limitada             |
+| **Evita respuestas directas** | ✅ Siempre      | ❌ N/A                  | ❌ Da respuestas completas|
+| **Pensamiento crítico**       | ✅ Objetivo principal | ⚠️ Variable         | ❌ No priorizado        |
+| **Integración LMS**           | ✅ LTI 1.3 estándar | ⚠️ Depende           | ❌ No disponible        |
+| **Personalización pedagógica**| ✅ Completa     | ⚠️ Limitada             | ❌ Genérica             |
+| **Analíticas de aprendizaje** | ✅ Avanzadas    | ⚠️ Básicas               | ❌ Inexistentes         |
+| **Privacidad educativa**      | ✅ RGPD completo| ⚠️ Variable              | ❌ Uso comercial        |
+| **Enfoque educativo**         | ✅ 100% educativo | ✅ Sí                  | ❌ Propósito general    |
+| **Permite copiar/pegar**      | ❌ Nunca (solo proceso real) | ⚠️ Depende del formato | ✅ Siempre          |
 
 ---
 
@@ -106,6 +112,9 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 4. **Construye tu comprensión** paso a paso
 5. **Entrega tu trabajo** con evidencias de tu razonamiento
 
+### Para Inversores
+
+1. **Roadmap de desarrollo** - Sin registros adicionales
 ---
 
 ## 🏗️ Stack Tecnológico
@@ -234,12 +243,6 @@ Esta documentación está disponible bajo licencia MIT. Consulta [LICENSE](LICEN
 - [Marco Europeo de Competencia Digital](https://joint-research-centre.ec.europa.eu/digcomp_en)
 
 ---
-
-<div align="center">
-
-**Construido con ❤️ para educadores y estudiantes**
-
-*Transformando la educación, una pregunta a la vez*
 
 **[Explorar Documentación](docs/) • [Ver Demo](https://mvp.my-eutic.org) • [Contactar](https://github.com/BSanroma/my-eutic-docs/issues)**
 
