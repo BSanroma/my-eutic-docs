@@ -37,6 +37,8 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 - 🔧 **[Documentación API](docs/api.md)** - Integración técnica
 - 📊 **[Casos de Estudio](docs/case-studies.md)** - Resultados reales
 
+### Roadmap Tecnológico
+- 🏗️ **[Arquitectura Técnica](docs/roadmap.md)** - Roadmap tecnológico
 ---
 
 ## ✨ Claims Clave
