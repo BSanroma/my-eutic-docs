@@ -21,10 +21,25 @@ Bienvenido/a a la experiencia My-Eutic, la plataforma educativa con inteligencia
 5. **Envía tu trabajo y consulta el informe**
    Al final, recibirás un resumen de tu razonamiento que podrás revisar y entregar a tu profesor.
 
+---
+
+## ¿Por qué My-Eutic es diferente?
+
+- **Sin atajos, sin trucos**:  
+  El proceso puede parecer exigente o “cansado” al principio, pero la recompensa en comprensión y argumentación es enorme.
+- **Importa la calidad, no la cantidad**:  
+  My-Eutic no avanza por número de respuestas sino por la profundidad y el esfuerzo en cada respuesta. Si respondes de manera breve o superficial, tendrás que volver a reflexionar y avanzar será más lento.
+- **Adaptación total a tu ritmo**:  
+  My-Eutic estará siempre a tu lado para que la experiencia se adapte a ti al 100%. No tiene prisa por finalizar: el avance depende siempre de tu implicación y reflexión.
+- **Máxima gratificación**:  
+  El auténtico aprendizaje surge cuando tú encuentras las respuestas y ves tu propio progreso. ¡Sé valiente y honesto en el proceso!
+
+---
+
 ## Recomendaciones para aprovechar al máximo My-Eutic
 
-- **Sé sincero en tus respuestas**: el sistema busca ayudarte a mejorar, no juzgarte.
-- **Reflexiona antes de contestar**: cada pregunta está diseñada para que pienses en serio.
+- **Sé sincero/a y profundo/a en tus respuestas**: el sistema busca ayudarte a mejorar, no juzgarte.
+- **Reflexiona antes de contestar**: cada pregunta está hecha para que pienses en serio.
 - **Utiliza los informes**: revisar tu progreso te ayudará a mejorar tu modo de aprender y argumentar.
 
 ## Seguridad y privacidad
