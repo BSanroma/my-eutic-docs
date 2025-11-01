@@ -244,12 +244,6 @@ Esta documentación está disponible bajo licencia MIT. Consulta [LICENSE](LICEN
 
 ---
 
-<div align="center">
-
-**Construido con ❤️ para educadores y estudiantes**
-
-*Transformando la educación, una pregunta a la vez*
-
 **[Explorar Documentación](docs/) • [Ver Demo](https://mvp.my-eutic.org) • [Contactar](https://github.com/BSanroma/my-eutic-docs/issues)**
 
 ---
