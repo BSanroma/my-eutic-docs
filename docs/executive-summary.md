@@ -1,33 +1,55 @@
 # 📄 Resumen Ejecutivo - My-Eutic
 
-**Plataforma educativa con IA Socrática para el desarrollo del pensamiento crítico y la argumentación en entornos institucionales.**
+**Plataforma educativa con IA Socrática para recuperar el pensamiento crítico, la autenticidad y el valor de las instituciones educativas.**
 
-## Visión y propósito
+---
 
-- Transformar el aprendizaje en procesos dialógicos y reflexivos
-- Facilitar el desarrollo de competencias clave del siglo XXI
-- Garantizar el impacto verificable en centros educativos y universidades
+## Problema que resolvemos
 
-## Estado y madurez del proyecto
+- **Deuda cognitiva:**  
+  El aprendizaje superficial, la memorización vacía y la dependencia de respuestas automáticas está causando una generación de estudiantes menos autónomos, menos reflexivos y cada vez más distanciados del valor real del conocimiento.
 
-- MVP operativo con integración LMS en producción (Moodle, Canvas)
-- Arquitectura cloud enterprise con seguridad avanzada (Supabase, Edge Functions, RLS)
-- Adaptaciones curriculares y NEE alineadas con LOMLOE, listo para escalado institucional
-- Documentación transparente y modular para todos los perfiles del centro
+- **Disminución del valor percibido de las instituciones educativas:**  
+  Los centros educativos y universitarios enfrentan el reto de demostrar que el aprendizaje impartido es auténtico, profundo y relevante; la proliferación de herramientas de IA tradicionales (chatbots, copy/paste) pone en duda el rigor y el sentido de la formación académica.
 
-## Diferenciadores estratégicos
+- **Imposibilidad de validar la autoría de trabajos académicos:**  
+  Tanto en secundaria como en educación superior, se ha vuelto extremadamente difícil distinguir entre el trabajo genuino del estudiante y el generado, copiado o asistido sin supervisión por IA y medios digitales.
 
-- Diálogo socrático en vez de respuestas automáticas
-- Informes pedagógicos automáticos y trazabilidad longitudinal
-- Total privacidad, cumplimiento RGPD/LOPD y reporting institucional
-- Roadmap claro: refactor frontend, auditoría continua y expansión internacional
+- **Pérdida acelerada del pensamiento crítico y de la capacidad de argumentar:**  
+  La delegación de procesos cognitivos en chatbots y soluciones automáticas lleva a la pérdida de capacidad intelectual y de razonamiento riguroso.
 
-## Beneficio para instituciones y administraciones
+---
 
-- Proceso de onboarding rápido y seguro
-- Integración universal con LMS vía LTI 1.3 y API
-- Impacto real demostrable (mejoras en comprensión y argumentación)
-- Dashboard y reporting adaptados al entorno institucional
+## Solución My-Eutic
+
+- **Diálogo socrático inteligente:**  
+  En vez de ofrecer respuestas, la plataforma pregunta estratégicamente, guía, pone en evidencia la construcción del razonamiento, y deja huella del proceso intelectual del estudiante.  
+  Esto permite validar la autenticidad, la profundidad y la evolución real del aprendizaje.
+
+- **Certificación del proceso y reporting pedagógico automático:**  
+  El centro educativo recibe un informe detallado y verificable de cómo cada estudiante argumenta, razona y construye conocimiento, con trazabilidad longitudinal y alineación curricular (LOMLOE).
+
+- **Privacidad, seguridad y compliance total:**  
+  El sistema emplea arquitectura cloud moderna (Supabase, Edge Functions, RLS), cumple RGPD/LOPD y da control institucional absoluto sobre los datos y procesos.
+
+---
+
+## Estado y madurez actual
+
+- MVP operativo integrable con cualquier LMS vía LTI 1.3 y API
+- Capacidad de adaptación y escalado a nivel de centro, institución y universidad
+- Documentación pública, modular y transparente
+- Roadmap de refactor, auditoría, crecimiento internacional y mejora continua
+
+---
+
+## Beneficio estratégico para instituciones
+
+- Recupera y certifica el valor del aprendizaje genuino
+- Otorga herramientas a docentes para guiar y validar el proceso intelectual sin perder control ni calidad pedagógica
+- Protege la reputación y el sentido de los centros educativos en la era de la IA
+
+---
 
 ## Contacto para acceso institucional
 
