@@ -106,6 +106,9 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 4. **Construye tu comprensión** paso a paso
 5. **Entrega tu trabajo** con evidencias de tu razonamiento
 
+### Para Inversores
+
+1. **Roadmap de desarrollo** - Sin registros adicionales
 ---
 
 ## 🏗️ Stack Tecnológico
