@@ -33,7 +33,6 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 - 📰 **[Prensa y Medios](docs/prensa.md)** - Recursos para medios de comunicación
 - 🔒 **[Seguridad y Privacidad](docs/security.md)** - Cumplimiento normativo
 - 📄 [Resumen Ejecutivo](docs/executive-summary.md)
-- 🏛️ [Implementación Institucional](docs/implementation.md)
   
 ### Recursos Técnicos
 - 🏗️ **[Arquitectura Técnica](docs/architecture.md)** - Stack tecnológico
