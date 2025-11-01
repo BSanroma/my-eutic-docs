@@ -1,5 +1,5 @@
 # My-Eutic: Plataforma educativa con IA socrática
-# Adiós copiar/pegar: Hola penamiento crítico
+# Adiós copiar/pegar: Hola pensamiento crítico
 
 > **Transformando la educación mediante diálogos socráticos impulsados por inteligencia artificial**
 
