@@ -38,7 +38,7 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 - 📊 **[Casos de Estudio](docs/case-studies.md)** - Resultados reales
 
 ### Roadmap Tecnológico
-- 🏗️ **[Roadmap Tecnológico](docs/roadmap.md)** - Roadmap tecnológico
+- 🏗️ **[Roadmap Tecnológico](docs/Roadmap.md)** - Roadmap tecnológico
 ---
 
 ## ✨ Claims Clave
