@@ -29,10 +29,11 @@ No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas q
 - 💡 **[FAQ Estudiantes](docs/faq.md#estudiantes)** - Resuelve tus dudas
 
 ### Para Instituciones
-- 🏛️ **[Implementación Institucional](docs/implementation.md)** - Despliegue a escala
-- 📰 **[Prensa y Medios](docs/prensa.md)** - Recursos para medios de comunicación
-- 🔒 **[Seguridad y Privacidad](docs/security.md)** - Cumplimiento normativo
+- 👩‍💼 [Guía para Directores de Centro](docs/guia-directores.md)
+- 🏛️ [Implementación Institucional](docs/implementation.md)
 - 📄 [Resumen Ejecutivo](docs/executive-summary.md)
+- 📰 [Prensa y Medios](docs/prensa.md)
+- 🔒 [Seguridad y Privacidad](docs/security.md)
   
 ### Recursos Técnicos
 - 🏗️ **[Arquitectura Técnica](docs/architecture.md)** - Stack tecnológico
