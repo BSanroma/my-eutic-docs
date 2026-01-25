@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./myeutic_hero_banner.png" alt="My-Eutic Hero Banner" width="100%">
+  <img src="./myeutic_hero_banner.jpg" alt="My-Eutic Hero Banner" width="100%">
   
   # My-Eutic
   ### Transformando la educación mediante Inteligencia Artificial Socrática y Pensamiento Crítico
