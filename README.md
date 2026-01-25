@@ -1,80 +1,89 @@
-# My-Eutic: Plataforma educativa con IA socrática
-# Adiós copiar/pegar: Hola pensamiento crítico
-
-> **Transformando la educación mediante diálogos socráticos impulsados por inteligencia artificial**
-
-[![LTI 1.3](https://img.shields.io/badge/LTI-1.3-blue)](docs/lti-integration.md)
-[![Pedagogía](https://img.shields.io/badge/Metodología-Socrática-green)](docs/guia-profesor.md)
-[![Estado](https://img.shields.io/badge/Estado-Producción-brightgreen)](#)
-
----
-
-## ✅ Estado del Proyecto: EN PRODUCCIÓN (Enero 2026)
-
-My-Eutic es ahora una plataforma completamente funcional y en producción. Hemos evolucionado de un prototipo a una solución institucional robusta que ya está siendo desplegada en centros educativos.
+<div align="center">
+  <img src="./myeutic_hero_banner.png" alt="My-Eutic Hero Banner" width="100%">
+  
+  # My-Eutic
+  ### Transformando la educación mediante Inteligencia Artificial Socrática y Pensamiento Crítico
+  
+  [![LTI 1.3 Advantage](https://img.shields.io/badge/LTI-1.3%20Advantage-blue?style=for-the-badge&logo=internet-archive)](https://www.imsglobal.org/spec/lti/v1p3)
+  [![LOMLOE Compliant](https://img.shields.io/badge/LOMLOE-Compliant-green?style=for-the-badge)](https://www.educacionfpyde.gob.es/en/mc/lomloe/inicio.html)
+  [![Privacy First](https://img.shields.io/badge/Privacy-GDPR%20Ready-purple?style=for-the-badge&logo=simpleanalytics)](https://my-eutic.org/privacy)
+  [![Status](https://img.shields.io/badge/Estado-Producci%C3%B3n%20(Beta%20V2.1)-brightgreen?style=for-the-badge)](#)
+</div>
 
 ---
 
-## 🎯 Misión
+## 🚀 ¿Qué es My-Eutic?
 
-**My-Eutic** es una plataforma educativa que combina la metodología socrática clásica con inteligencia artificial avanzada (Google Gemini). Nuestro objetivo es transformar el aprendizaje en una experiencia dialógica y reflexiva que desarrolle el pensamiento crítico y el razonamiento autónomo.
+**My-Eutic** no es un chatbot de respuestas rápidas. Es un **Tutor Socrático Digital** diseñado para integrarse nativamente en el ecosistema educativo (Moodle, Canvas, Blackboard) y fomentar el razonamiento autónomo. 
 
-No ofrecemos respuestas directas. Guiamos a través de preguntas estratégicas que fomentan el descubrimiento y la construcción activa del conocimiento.
-
----
-
-## 📚 Documentación Actualizada
-
-### Para Docentes e Instituciones
-- 📖 **[Guía del Profesor](docs/guia-profesor.md)** - Cómo integrar My-Eutic en tu aula.
-- 🔌 **[Integración LTI 1.3](docs/lti-integration.md)** - Conecta My-Eutic con Moodle o Canvas en segundos. ⭐ **Novedad: Dynamic Registration**.
-- 🏫 **[Portal de Institución](#-portal-de-institución)** - Gestión centralizada para centros y academias.
-
-### Recursos Técnicos
-- 🏗️ **Arquitectura**: Basada en Supabase Edge Functions y Deno.
-- 🔒 **Privacidad**: Cumplimiento estricto de RGPD y privacidad educativa.
+Nuestra misión es clara: **Adiós al copiar/pegar, Hola al pensamiento crítico.**
 
 ---
 
-## ⚡ Novedades 2026
+## 💎 Pilares Tecnológicos
 
-### 1-Click Setup: Dynamic Registration
-Gracias al soporte de **IMS Global Dynamic Registration**, configurar My-Eutic en Moodle o Canvas ahora se hace con una sola URL y en menos de 30 segundos. Adiós a copiar y pegar múltiples claves manualmente.
+### 🧠 IA Socrática Adaptativa
+Utilizamos modelos de lenguaje avanzados (Google Gemini) optimizados con *prompts* pedagógicos que guían al alumno a través de la duda metódica. La IA detecta el nivel de comprensión y ajusta el "andamio" (scaffolding) en tiempo real.
 
-### Portal d'Institució (Academy Admin Dashboard)
-Los centros educativos disponen ahora de un panel administrativo propio para:
-- Gestionar licencias y profesores.
-- Visualizar métricas agregadas de uso y progreso.
-- Configurar integraciones a nivel de academia.
+### ♿ Inclusión por Diseño (NEE)
+My-Eutic es la primera plataforma LTI que personaliza la conversación según las **Necesidades Educativas Especiales (NEE)** del perfil del alumno:
+- **Dislexia / Disortografía**: Adaptación visual y textual.
+- **TDAH**: Estímulos focales y sesiones fragmentadas.
+- **TEA (Nivel 1)**: Comunicación estructurada y predictiva.
+- **Altas Capacidades**: Retos de profundización lateral.
 
----
-
-## 🚀 Cómo Funciona
-
-### Para Profesores
-1. **Accede desde tu LMS** (Moodle, Canvas, etc.)
-2. **Asigna actividades** socráticas predefinidas o creadas a medida.
-3. **Analiza el razonamiento**: Recibe informes pedagógicos detallados basados en la evidencia del diálogo del alumno.
-
-### Para Estudiantes
-1. **Diálogo Socrático**: Interactúa con la IA que guía tu pensamiento sin darte la solución.
-2. **Construcción del conocimiento**: Genera resúmenes y reflexiones propias a partir del diálogo.
-3. **Autenticidad**: El sistema verifica que el aprendizaje sea real y no fruto de un simple copiar/pegar.
+### 📄 Informes Pedagògicos de Alto Valor
+Generamos informes automáticos para el docente que incluyen:
+- **Métricas de Proceso**: No solo la respuesta, sino *cómo* ha llegado el alumno a ella.
+- **Evidencias de Insight**: Citas literales de los momentos clave del razonamiento.
+- **Redacción Académica**: Un resumen unificado de 700-850 palabras generado tras la aprobación del alumno.
 
 ---
 
-## 🏗️ Stack Tecnológico
-- **Frontend**: React, Tailwind CSS, Shadcn/ui.
-- **Backend**: Supabase (PostgreSQL + RLS), Edge Functions (Deno).
-- **IA**: Google Gemini Pro con prompts pedagógicos optimizados.
+## 🔌 Integración LTI 1.3 Advantage (Moodle-First)
+
+My-Eutic es **"La integración perfecta para Moodle"**. Gracias al estándar de **Dynamic Registration**, puedes tener la herramienta operativa en menos de 30 segundos.
+
+```mermaid
+sequenceDiagram
+    participant LMS (Moodle/Canvas)
+    participant My-Eutic
+    participant Supabase (Vault)
+    
+    LMS->>My-Eutic: OIDC Login Request
+    My-Eutic->>LMS: OIDC Authentication Response
+    LMS->>My-Eutic: LTI Launch (JWT signed)
+    My-Eutic->>Supabase (Vault): Verify Keys & Signature
+    My-Eutic->>LMS: Display Personalized Dashboard
+```
+
+> [!IMPORTANT]
+> **Dynamic Registration URL:**  
+> `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/config`
 
 ---
 
-## 📞 Contacto y Soporte
-- 🐛 **Issues**: [GitHub Issues](https://github.com/BSanroma/my-eutic-docs/issues)
-- 🌐 **Web oficial**: [my-eutic.org](https://my-eutic.org)
-- 🚀 **MVP Live**: [mvp.my-eutic.org](https://mvp.my-eutic.org)
+## 📂 Estructura de Documentación
+
+| Sección | Descripción |
+|---------|-------------|
+| 📖 **[Guía del Profesor](docs/guia-profesor.md)** | Mejores prácticas pedagógicas y flujo de trabajo. |
+| 🔌 **[Integración LTI](docs/lti-integration.md)** | Detalles técnicos para administradores de plataforma. |
+| 🔒 **[Seguridad y Privacidad](docs/privacy-security.md)** | Cumplimiento RGPD, cifrado y gestión de datos. |
+| 🛠️ **[Architecture Overview](docs/architecture.md)** | Visión de alto nivel del stack tecnológico. |
 
 ---
 
-*Última actualización: 9 de Enero de 2026*
+## 🛡️ Profesionalidad y Confianza
+
+My-Eutic está construido bajo estándares **Enterprise-Level**:
+- **Zero-Trust Architecture** en el manejo de datos.
+- **Políticas RLS estrictas** (más de 125 políticas activas en Supabase).
+- **GDPR Compliant**: Auditoría de IP, metadatos y firmas de NDA integradas en el proceso de registro.
+
+---
+
+<div align="center">
+  <p>Propiedad de <b>Bernat Sanroma</b> &bull; My-Eutic © 2026</p>
+  <p><a href="https://my-eutic.org">Website Oficial</a> &bull; <a href="https://mvp.my-eutic.org">Plataforma MVP</a></p>
+</div>

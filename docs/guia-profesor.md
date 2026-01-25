@@ -1,31 +1,57 @@
-# 📖 Guía del Profesor - My-Eutic (Enero 2026)
+# 📖 Guía del Profesor - My-Eutic
 
-Bienvenido/a a la guía actualizada para docentes. My-Eutic ahora ofrece una integración más profunda y analíticas avanzadas para acompañar el proceso de aprendizaje socrático.
+Esta guía está diseñada para ayudar al docente a maximizar el impacto pedagógico de la IA Socrática en el aula.
 
-## ✨ ¿Qué ofrece My-Eutic al docente?
+## 🎯 El Método Socrático Digital
 
-- **IA Socrática**: Un asistente que no da respuestas, sino que guía mediante preguntas.
-- **Informes Pedagógicos**: Analíticas basadas en la evidencia real del diálogo (no solo el resultado final).
-- **Provisión Automática**: Todo se gestiona desde tu LMS (Moodle, Canvas, etc.).
+My-Eutic no es una herramienta para resolver dudas, es una herramienta para **generar pensamiento**. La IA actúa como un tutor que:
+1. Nunca proporciona la solución directa.
+2. Identifica lagunas en el razonamiento del alumno.
+3. Propone analogías y preguntas guía para superar bloqueos.
 
-## 🚀 Flujo de Trabajo
+### El Ciclo de Aprendizaje
 
-### 1. Preparación en el LMS
-Asigna una actividad de My-Eutic en tu curso. Gracias a **Deep Linking**, puedes elegir tareas específicas o dejar que los alumnos exploren libremente según tus objetivos.
-
-### 2. El Diálogo socrático
-Mientras el alumno interactúa con la IA, tú puedes monitorizar el progreso. La IA detectará si el alumno está "copiando y pegando" o si realmente está elaborando su pensamiento.
-
-### 3. Evaluación y Feedback
-Al finalizar, recibirás un **Informe Unificado** que incluye:
-- **Evidencia Auténtica**: Citas literales de los momentos de "insight" del alumno.
-- **Mapa conceptual**: El camino que ha seguido el razonamiento.
-- **Sugerencias de Evaluación**: Basadas en las competencias LOMLOE definidas.
-
-## 🏫 Portal de Institución
-
-Si eres administrador de centro, tendrás acceso al **Institution Dashboard**, donde podrás ver el uso global de la plataforma, gestionar las licencias de tus profesores y obtener reportes de impacto a nivel de centro.
+```mermaid
+graph TD
+    A[Docente asigna tarea] --> B[Alumno inicia diálogo con IA]
+    B --> C{¿Razonamiento detectado?}
+    C -- No --> D[IA propone nueva pregunta guía]
+    C -- Sí --> E[IA valida y profundiza]
+    D --> B
+    E --> F[Alumno genera Redacción Académica]
+    F --> G[Docente recibe Informe Pedagógico]
+```
 
 ---
 
-*Para más detalles, consulta la [Integración LTI](lti-integration.md) o visita [my-eutic.org](https://my-eutic.org).*
+## ♿ Adaptación Automática (NEE)
+
+Una de las joyas de My-Eutic es su capacidad para adaptar el diálogo automáticamente según el perfil del alumno (según normativa LOMLOE):
+
+- **Si el alumno tiene TDAH**: La IA utiliza instrucciones más breves, refuerza positivamente cada avance y fragmenta el problema en partes pequeñas.
+- **En casos de Dislexia**: El sistema evita bloques de texto densos y prioriza estructuras gramaticales claras.
+- **Para Altas Capacidades**: El tutor socrático eleva el nivel de abstracción y fomenta la exploración de conceptos relacionados.
+
+---
+
+## 📈 La Evaluación Basada en Evidencias
+
+Olvídate de corregir solo el resultado final. Con My-Eutic evalúas el **proceso**:
+
+- **Informes Unificados**: Recibirás un documento PDF con un análisis de los indicadores alcanzados.
+- **Insight Markers**: El sistema marca los momentos exactos de la conversación donde el alumno ha demostrado un avance significativo en su pensamiento crítico.
+
+---
+
+## 🏫 Portal de Institución
+
+Si tu centro dispone de licencias corporativas, podrás acceder a:
+- **Gestión de Clases**: Agrupa a tus alumnos y realiza seguimiento por grupos.
+- **Repositorio de Tareas**: Crea tareas personalizadas o utiliza nuestro banco de recursos.
+- **Analíticas de Centro**: Visualiza el impacto del pensamiento crítico a nivel global.
+
+---
+
+<div align="center">
+  <p>¿Tienes dudas pedagógicas? Contacta con nuestro equipo en <a href="mailto:pedagogia@my-eutic.org">pedagogia@my-eutic.org</a></p>
+</div>
