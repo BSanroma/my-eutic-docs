@@ -25,14 +25,15 @@ Nuestra misión es clara: **Adiós al copiar/pegar, Hola al pensamiento crítico
 ### 🧠 IA Socrática Adaptativa
 Utilizamos modelos de lenguaje avanzados (Google Gemini) optimizados con *prompts* pedagógicos que guían al alumno a través de la duda metódica. La IA detecta el nivel de comprensión y ajusta el "andamio" (scaffolding) en tiempo real.
 
-### ♿ Inclusión por Diseño (NEE)
-My-Eutic es la primera plataforma LTI que personaliza la conversación según las **Necesidades Educativas Especiales (NEE)** del perfil del alumno:
-- **Dislexia / Disortografía**: Adaptación visual y textual.
-- **TDAH**: Estímulos focales y sesiones fragmentadas.
-- **TEA (Nivel 1)**: Comunicación estructurada y predictiva.
-- **Altas Capacidades**: Retos de profundización lateral.
+### ♿ Inclusividad Total (NEE) & DUA
+My-Eutic es pionero en la implementación del **Diseño Universal para el Aprendizaje (DUA)** mediante IA. Actualmente en desarrollo activo (*pipeline*), el sistema personaliza la "voz pedagógica" según las **Necesidades Educativas Especiales (NEE)**:
+- **TDAH**: Refuerzo positivo constante (Ratio 3:1) y fragmentación de tareas para evitar la sobrecarga cognitiva.
+- **Dislexia / Disortografía**: Simplificación gramatical y estructuras de texto claras para facilitar la decodificación.
+- **TEA (Espectro Autista)**: Lenguaje literal, estructurado y sin ambigüedades, creando un entorno de aprendizaje seguro y predictible.
+- **Altas Capacidades**: Incremento del nivel de abstracción y fomento de la curiosidad lateral para mantener el engagement.
+- **Discalculia**: Guía procedimental detallada paso a paso en razonamientos lógico-matemáticos.
 
-### 📄 Informes Pedagògicos de Alto Valor
+### 📄 Informes Pedagógicos de Alto Valor
 Generamos informes automáticos para el docente que incluyen:
 - **Métricas de Proceso**: No solo la respuesta, sino *cómo* ha llegado el alumno a ella.
 - **Evidencias de Insight**: Citas literales de los momentos clave del razonamiento.
