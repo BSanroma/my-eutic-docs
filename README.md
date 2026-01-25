@@ -25,7 +25,7 @@ Nuestra misión es clara: **Adiós al copiar/pegar, Hola al pensamiento crítico
 ### 🧠 IA Socrática Adaptativa
 Utilizamos modelos de lenguaje avanzados (Google Gemini) optimizados con *prompts* pedagógicos que guían al alumno a través de la duda metódica. La IA detecta el nivel de comprensión y ajusta el "andamio" (scaffolding) en tiempo real.
 
-### ♿ Inclusividad Total (NEE) & DUA
+### ♿ Inclusividad Total (NEE) & DUA 🚧 *(En desarrollo / Pipeline)*
 My-Eutic es pionero en la implementación del **Diseño Universal para el Aprendizaje (DUA)** mediante IA. Actualmente en desarrollo activo (*pipeline*), el sistema personaliza la "voz pedagógica" según las **Necesidades Educativas Especiales (NEE)**:
 - **TDAH**: Refuerzo positivo constante (Ratio 3:1) y fragmentación de tareas para evitar la sobrecarga cognitiva.
 - **Dislexia / Disortografía**: Simplificación gramatical y estructuras de texto claras para facilitar la decodificación.

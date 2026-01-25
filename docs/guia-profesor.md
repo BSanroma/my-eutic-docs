@@ -24,7 +24,10 @@ graph TD
 
 ---
 
-## ♿ Adaptación Automática (NEE) - Diseño Universal para el Aprendizaje
+## ♿ Adaptación Automática (NEE) - DUA 🚧 *(Proyecto en desarrollo)*
+
+> [!WARNING]
+> **Estado del Módulo**: Esta funcionalidad se encuentra actualmente en fase de desarrollo y pruebas técnicas (*pipeline*). Las estrategias descritas a continuación representan el motor pedagógico que se está integrando progresivamente en la plataforma.
 
 My-Eutic integra el **Diseño Universal para el Aprendizaje (DUA)** directamente en su motor de IA. El sistema no solo adapta el contenido, sino que ajusta la *dinámica conversacional* para eliminar barreras de aprendizaje según el perfil del alumno (alineado con la normativa LOMLOE):
 
