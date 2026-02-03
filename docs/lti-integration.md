@@ -9,7 +9,7 @@ My-Eutic soporta **IMS Global Dynamic Registration**, lo que convierte la config
 ### En Moodle 4.x:
 1. Ve a **Administración del sitio** > **Extensiones** > **Herramientas externas** > **Gestionar herramientas**.
 2. Pega la seguinte URL en el campo "URL de la herramienta":
-   `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/config`
+   `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/config`
 3. Haz clic en **Añadir LTI Advantage**. ¡Listo!
 
 ---
@@ -20,9 +20,9 @@ Si tu plataforma no soporta el registro dinámico, utiliza los parámetros técn
 
 | Parámetro | Valor |
 |-----------|-------|
-| **OIDC Login URL** | `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/login` |
-| **Redirect URL** | `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/launch` |
-| **JWKS URL** | `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/jwks` |
+| **OIDC Login URL** | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/login` |
+| **Redirect URL** | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/launch` |
+| **JWKS URL** | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/jwks` |
 | **Deep Linking** | Habilitado (Permite selección de tareas específicas) |
 
 ---
