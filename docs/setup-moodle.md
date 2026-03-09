@@ -1,17 +1,17 @@
 # 🎓 Guia de Configuració: My-Eutic + Moodle
 
-> **Temps estimat:** 15-20 minuts  
+> **Temps estimat:** 2-5 minuts (LTI Advantage)
 > **Requisits:** Accés d'administrador a Moodle  
-> **Versions compatibles:** Moodle 3.8+, MoodleCloud
+> **Versions compatibles:** Moodle 3.10+, MoodleCloud
 
 ---
 
 ## 📋 Resum del Procés
 
-```
-1. Configurar My-Eutic com a eina externa a Moodle
-2. Enviar el Client ID generat a l'equip My-Eutic
-3. Crear una activitat LTI al teu curs
+```text
+1. Configurar My-Eutic com a eina externa a Moodle (Configuració Automàtica)
+2. Enviar el codi de confirmació (Client ID) a l'equip My-Eutic
+3. Afegir l'activitat LTI a un curs
 4. Provar l'accés
 ```
 
@@ -19,41 +19,42 @@
 
 ## Pas 1: Accedir a la Gestió d'Eines Externes
 
-1. Inicia sessió a Moodle com a **Administrador**
-2. Ves a: `Administració del lloc` → `Extensions` → `Mòduls d'activitat` → `Eina externa` → `Gestionar eines`
+1. Inicia sessió a Moodle amb el teu perfil d'**Administrador**
+2. Ves a: `Administración del sitio` → `Extensiones` → `Módulos de actividad` → `Herramienta externa` → `Administrar herramientas`
+*(Versió en Català: `Administració del lloc` → `Extensions` → `Mòduls d'activitat` → `Eina externa` → `Gestionar eines`)*
 
-![Navegació a Gestionar eines](placeholder-nav-tools.png)
+![Navegació a Administrar herramientas](placeholder-nav-tools.png)
 
 ---
 
 ## Pas 2: Afegir My-Eutic (Mètode Automàtic ✨)
 
-> **Recomanat** - Configura tot en 30 segons
+> Aquest és el **Mètode Recomanat (OPCIÓ 1 de l'Email)**. Configura tota la plataforma en menys de 30 segons utilitzant el "Dynamic Registration".
 
-1. Clica el botó **"Configuració a partir de l'URL de la cartutxeria"** (o "Configure a tool from a cartridge URL")
+1. A la part superior de la pàgina "Administrar herramientas" (o "Gestionar eines"), hi ha un recuadre blanc ràpid que diu **"URL de la herramienta"** (o "Tool URL").
 
-2. Enganxa aquesta URL:
-   ```
+2. Enganxa-hi directament la URL d'autoconfiguració que has rebut a l'email:
+   ```text
    https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/config
    ```
 
-3. Clica **"Afegir LTI Advantage"**
+3. Clica el botó blau del costat que posa **"Añadir LTI Advantage"** (o "Add LTI Advantage").
 
-4. Moodle carregarà automàticament tots els paràmetres
+4. Moodle contactarà amb My-Eutic i carregarà automàticament tots els noms, icones, protocols i URLS sense que hagis de fer res més. 
 
-5. Clica **"Desa els canvis"**
+5. Si et demana confirmació, accepta. My-Eutic ja està instal·lada!
 
-![Configuració automàtica](placeholder-auto-config.png)
+![Configuració automàtica LTI Advantage](placeholder-auto-config.png)
 
 ---
 
 ## Pas 2 (Alternatiu): Configuració Manual
 
-Si el mètode automàtic no funciona, configura manualment:
+> Aquest mètode **només s'ha de fer servir si el mètode automàtic ha fallat** (ex: perquè tens un Moodle vell). Aquesta correspon a **l'OPCIÓ 2 de l'email**.
 
-1. Clica **"Configura una eina manualment"**
+1. Clica a l'enllaç petit que diu **"Configurar una herramienta manualmente"** (o "Configura una eina manualment").
 
-2. Omple els camps:
+2. Omple manualment els formularis (imatge inferior) amb les dades que has rebut a l'email:
 
 | Camp (Moodle Español) / (Català) | Valor a Introduir |
 |------|-------|
