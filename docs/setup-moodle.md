@@ -55,15 +55,15 @@ Si el mètode automàtic no funciona, configura manualment:
 
 2. Omple els camps:
 
-| Camp | Valor |
+| Camp (Moodle Español) / (Català) | Valor a Introduir |
 |------|-------|
-| **Nom de l'eina** | `My-Eutic Platform` |
-| **URL de l'eina** | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/launch` |
-| **Versió LTI** | `LTI 1.3` |
-| **Tipus de clau pública** | `URL del conjunt de claus` |
-| **Conjunt de claus públiques** | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/jwks` |
-| **URL d'inici de sessió** | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/login` |
-| **URI de redirecció** | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/launch` |
+| **Nombre de la herramienta** / Nom de l'eina | `My-Eutic Platform` |
+| **URL de la herramienta** / URL de l'eina | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/launch` |
+| **Versión LTI** / Versió LTI | `LTI 1.3` |
+| **Tipo de clave pública** / Tipus de clau pública | `URL del conjunto de claves` / `URL del conjunt de claus` |
+| **Conjunto de claves públicas** / Conjunt de claus | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/jwks` |
+| **Iniciar URL de inicio de sesión** / URL d'inici | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/login` |
+| **URI(s) de redirección** / URI de redirecció | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/launch` |
 
 3. A **"Ús de la configuració de l'eina"**, selecciona: `Mostra com a eina preconfigurada`
 

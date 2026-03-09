@@ -7,7 +7,7 @@ My-Eutic utiliza una arquitectura moderna "Serverless First" diseñada para ofre
 - **Frontend**: React 18 con TypeScript y Tailwind CSS. Componentes basados en Shadcn/ui para una experiencia de usuario premium y accesible.
 - **Core Backend**: Supabase (PostgreSQL) con políticas de **Row Level Security (RLS)** granulares.
 - **Edge Computing**: Lógica de negocio distribuida en **Supabase Edge Functions** (Deno), minimizando la latencia global.
-- **IA Engine**: Orquestación de modelos **Google Gemini Pro** con capas de pre-procesamiento pedagógico.
+- **IA Engine**: Orquestación de modelos **Google Gemini 2.x Flash/Pro** con capas de pre-procesamiento pedagógico y principio **Privacy-by-Design** (los prompts de IA nunca contienen PII).
 - **Interoperabilidad**: Soporte completo del estándar **LTI 1.3 Advantage** (IMS Global).
 
 ## 📊 Flujo de Datos
