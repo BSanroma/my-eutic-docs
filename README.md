@@ -2,89 +2,107 @@
   <img src="./myeutic_hero_banner.jpg" alt="My-Eutic Hero Banner" width="100%">
   
   # My-Eutic
-  ### Transformando la educación mediante Inteligencia Artificial Socrática y Pensamiento Crítico
+  ### Infraestructura de IA Socrática para Entrenar, Observar y Evaluar el Pensamiento Crítico
   
   [![LTI 1.3 Advantage](https://img.shields.io/badge/LTI-1.3%20Advantage-blue?style=for-the-badge&logo=internet-archive)](https://www.imsglobal.org/spec/lti/v1p3)
-  [![LOMLOE Compliant](https://img.shields.io/badge/LOMLOE-Compliant-green?style=for-the-badge)](https://www.educacionfpyde.gob.es/en/mc/lomloe/inicio.html)
-  [![Privacy First](https://img.shields.io/badge/Privacy-GDPR%20Ready-purple?style=for-the-badge&logo=simpleanalytics)](https://my-eutic.org/privacy)
-  [![Status](https://img.shields.io/badge/Estado-Producci%C3%B3n%20(Beta%20V2.1)-brightgreen?style=for-the-badge)](#)
+  [![Higher Ed & K-12 Ready](https://img.shields.io/badge/Curriculum-Higher%20Ed%20%26%20K--12-emerald?style=for-the-badge)](#)
+  [![Trilingual Native](https://img.shields.io/badge/Languages-ES%20%7C%20CA%20%7C%20EN-orange?style=for-the-badge)](#)
+  [![Privacy First](https://img.shields.io/badge/Privacy-GDPR%20%26%20Zero--PII-purple?style=for-the-badge&logo=simpleanalytics)](https://my-eutic.org/privacy)
+  [![Status](https://img.shields.io/badge/Estado-Producci%C3%B3n%20(V3)-brightgreen?style=for-the-badge)](#)
 </div>
 
 ---
 
 ## 🚀 ¿Qué es My-Eutic?
 
-**My-Eutic** no es un chatbot de respuestas rápidas. Es un **Tutor Socrático Digital** diseñado para integrarse nativamente en el ecosistema educativo (Moodle, Canvas, Blackboard) y fomentar el razonamiento autónomo. 
+**My-Eutic** es la primera **infraestructura pedagógica socrática** diseñada para que la inteligencia artificial fomente el razonamiento propio en lugar de sustituirlo. Se integra nativamente en el entorno virtual de aprendizaje institucional (**Canvas, Moodle, Blackboard**) para devolver visibilidad docente sobre cómo piensan los estudiantes.
 
-Nuestra misión es clara: **Adiós al copiar/pegar, Hola al pensamiento crítico.**
+Frente a la ilusión de competencia que generan los modelos de lenguaje generalistas (donde el producto final se separa del proceso cognitivo), My-Eutic restaura el proceso:
+> **No damos la respuesta. Provocamos pensamiento.**
+
+---
+
+## 📊 Escala Curricular y Métricas de Impacto
+
+* 📚 **+9.500 tareas socráticas interactivas** (+5.800 retos conceptualmente únicos y probados).
+* 🎓 **Educación Superior y Grados Universitarios**: Cobertura completa para grados y programas en *Digital Marketing, Digital Business, Administración y Dirección de Empresas (ADE), Economía, Habilidades Directivas y Toma de Decisiones*.
+* 🏫 **Educación Secundaria y Bachillerato**: Cobertura integral de materias y situaciones de aprendizaje.
+* 🌐 **Trilingüe Nativo**: Despliegue en **Castellano, Catalán e Inglés** en paralelo para programas internacionales y centros plurilingües.
+* ⚙️ **Universal Curriculum Engine**: Capacidad para ingerir cualquier guía docente universitaria o currículo formativo y transformarlo en sesiones socráticas guiadas.
+* 📈 **Evidencia Empírica de Pilotos**:
+  * **+61% de incremento** en lenguaje reflexivo y profundidad argumentativa.
+  * **+7.000 mensajes socráticos** analizados en entornos de aula y seminario real.
+  * **92 horas** de tutoría 1:1 equivalente por cada cohorte analizada.
 
 ---
 
 ## 💎 Pilares Tecnológicos
 
-### 🧠 IA Socrática Adaptativa
-Utilizamos modelos de lenguaje avanzados (Google Gemini) optimizados con *prompts* pedagógicos que guían al alumno a través de la duda metódica. La IA detecta el nivel de comprensión y ajusta el "andamio" (scaffolding) en tiempo real.
+### 🧠 Tutoría Socrática Adaptativa
+El tutor virtual nunca entrega la respuesta cerrada. A través de técnicas de *reencuadre*, *andamiaje cognitivo (scaffolding)* y *anclaje vital*, detecta la superficialidad y fuerza al alumno a argumentar, contrastar evidencias y fundamentar su criterio.
 
-### ♿ Inclusividad Total (NEE) & DUA 🚧 *(En desarrollo / Pipeline)*
-My-Eutic es pionero en la implementación del **Diseño Universal para el Aprendizaje (DUA)** mediante IA. Actualmente en desarrollo activo (*pipeline*), el sistema personaliza la "voz pedagógica" según las **Necesidades Educativas Especiales (NEE)**:
-- **TDAH**: Refuerzo positivo constante (Ratio 3:1) y fragmentación de tareas para evitar la sobrecarga cognitiva.
-- **Dislexia / Disortografía**: Simplificación gramatical y estructuras de texto claras para facilitar la decodificación.
-- **TEA (Espectro Autista)**: Lenguaje literal, estructurado y sin ambigüedades, creando un entorno de aprendizaje seguro y predictible.
-- **Altas Capacidades**: Incremento del nivel de abstracción y fomento de la curiosidad lateral para mantener el engagement.
-- **Discalculia**: Guía procedimental detallada paso a paso en razonamientos lógico-matemáticos.
+### 📑 Evaluación Invisible & Evidencias Textuales
+Al finalizar cada sesión, el docente recibe un **Informe Pedagógico Individual** estructurado:
+- **Trazabilidad del Razonamiento**: Citas literales de la conversación que prueban documentalmente el aprendizaje del estudiante.
+- **Rúbrica de Criterios**: Indicadores de desarrollo cognitivo vinculados a las competencias transversales del grado o materia.
+- **Guía de Debate para la Clase**: Síntesis de creencias comunes, ángulos ciegos y preguntas disparadoras para dinamizar la sesión colectiva presencial.
 
-### 📄 Informes Pedagógicos de Alto Valor
-Generamos informes automáticos para el docente que incluyen:
-- **Métricas de Proceso**: No solo la respuesta, sino *cómo* ha llegado el alumno a ella.
-- **Evidencias de Insight**: Citas literales de los momentos clave del razonamiento.
-- **Redacción Académica**: Un resumen unificado de 700-850 palabras generado tras la aprobación del alumno.
+### ♿ Inclusividad Total (Diseño Universal para el Aprendizaje - DUA)
+Adaptación conversacional específica para garantizar accesibilidad cognitiva según necesidades educativas:
+- **TDAH**: Fragmentación procedimental y refuerzo motivacional positivo.
+- **Dislexia / Disortografía**: Simplificación sintáctica y reducción de saturación textual.
+- **TEA**: Comunicación directa, estructurada, libre de ambigüedades o dobles sentidos.
+- **Altas Capacidades**: Retos conceptuales de mayor abstracción y pensamiento lateral.
+- **Discalculia**: Andamiaje paso a paso en razonamiento cuantitativo.
 
 ---
 
-## 🔌 Integración LTI 1.3 Advantage (Moodle-First)
+## 🔌 Integración LTI 1.3 Advantage (Seamless Single Sign-On)
 
-My-Eutic es **"La integración perfecta para Moodle"**. Gracias al estándar de **Dynamic Registration**, puedes tener la herramienta operativa en menos de 30 segundos.
+Compatible con cualquier LMS moderno (**Moodle 3.10+, Canvas LMS, Blackboard Learn, Brightspace D2L**). Configuración instantánea mediante el protocolo estándar de **Dynamic Registration**.
 
 ```mermaid
 sequenceDiagram
-    participant LMS (Moodle/Canvas)
-    participant My-Eutic
-    participant Supabase (Vault)
-    
-    LMS->>My-Eutic: OIDC Login Request
-    My-Eutic->>LMS: OIDC Authentication Response
-    LMS->>My-Eutic: LTI Launch (JWT signed)
-    My-Eutic->>Supabase (Vault): Verify Keys & Signature
-    My-Eutic->>LMS: Display Personalized Dashboard
+    participant LMS as LMS (Canvas / Moodle / Blackboard)
+    participant Edge as My-Eutic LTI Connector
+    participant Engine as Motor Socrático
+    participant Docente as Panel Docente
+
+    LMS->>Edge: OIDC Login & Launch (JWT firmado)
+    Edge->>Edge: Validación criptográfica en Vault
+    Edge->>Engine: Sesión de aprendizaje adaptada al estudiante
+    Engine-->>Docente: Informe con evidencias y guía de debate
+    Engine-->>LMS: Retorno de evaluación (Grade Passback)
 ```
 
-> [!IMPORTANT]
-> **Dynamic Registration URL:**  
+> [!TIP]
+> **Dynamic Registration URL Oficial:**  
 > `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/config`
 
 ---
 
-## 📂 Estructura de Documentación
+## 📂 Documentación del Repositorio
 
-| Sección | Descripción |
-|---------|-------------|
-| 📖 **[Guía del Profesor](docs/guia-profesor.md)** | Mejores prácticas pedagógicas y flujo de trabajo. |
-| 🔌 **[Integración LTI](docs/lti-integration.md)** | Detalles técnicos para administradores de plataforma. |
-| 🔒 **[Seguridad y Privacidad](docs/privacy-security.md)** | Cumplimiento RGPD, cifrado y gestión de datos. |
-| 🛠️ **[Architecture Overview](docs/architecture.md)** | Visión de alto nivel del stack tecnológico. |
+| Guía | Audiencia y Propósito |
+|---|---|
+| 📖 **[Guía del Docente](docs/guia-profesor.md)** | Metodología socrática para universidad y secundaria, diseño de tareas e informes de evidencia. |
+| 🔌 **[Integración LTI 1.3](docs/lti-integration.md)** | Parámetros técnicos certificados para administradores de LMS (Moodle, Canvas, Blackboard). |
+| 🎓 **[Configuración en Moodle](docs/setup-moodle.md)** | Tutorial paso a paso con Dynamic Registration en Moodle. |
+| 🔒 **[Seguridad y Privacidad](docs/privacy-security.md)** | Arquitectura Zero-PII, soberanía de datos y cumplimiento estricto de RGPD. |
+| 🏗️ **[Arquitectura del Sistema](docs/architecture.md)** | Visión general del stack tecnológico distribuido. |
 
 ---
 
-## 🛡️ Profesionalidad y Confianza
+## 🛡️ Seguridad, Privacidad y Soberanía de Datos
 
-My-Eutic está construido bajo estándares **Enterprise-Level**:
-- **Zero-Trust Architecture** en el manejo de datos.
-- **Políticas RLS estrictas** (más de 125 políticas activas en Supabase).
-- **GDPR Compliant**: Auditoría de IP, metadatos y firmas de NDA integradas en el proceso de registro.
+* **Zero-PII en IA**: Ningún dato personal identificable (nombres, correos) es transmitido a modelos externos de IA. Solo viaja el contenido del razonamiento anonimizado.
+* **Aislamiento Multitenant con RLS**: Más de **400 políticas activas** de Row Level Security en base de datos PostgreSQL.
+* **Cifrado de Extremo a Extremo**: Comunicaciones bajo TLS 1.3 y datos en reposo cifrados con AES-256. Claves LTI gestionadas en Vault seguro.
+* **Conformidad Legal**: Estricto cumplimiento del RGPD / GDPR europeo.
 
 ---
 
 <div align="center">
-  <p>Propiedad de <b>Bernat Sanroma</b> &bull; My-Eutic © 2026</p>
-  <p><a href="https://my-eutic.org">Website Oficial</a> &bull; <a href="https://mvp.my-eutic.org">Plataforma MVP</a></p>
+  <p><b>My-Eutic</b> &bull; Infraestructura para la era de la IA</p>
+  <p><a href="https://my-eutic.org">Website Oficial</a> &bull; <a href="https://mvp.my-eutic.org">Plataforma Educativa</a></p>
 </div>

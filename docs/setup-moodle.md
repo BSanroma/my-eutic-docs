@@ -35,7 +35,7 @@
 
 2. Enganxa-hi directament la URL d'autoconfiguració que has rebut a l'email:
    ```text
-   https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/config
+   https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/config
    ```
 
 3. Clica el botó blau del costat que posa **"Añadir LTI Advantage"** (o "Add LTI Advantage").
@@ -57,14 +57,14 @@
 2. Omple manualment els formularis (imatge inferior) amb les dades que has rebut a l'email:
 
 | Camp (Moodle Español) / (Català) | Valor a Introduir |
-|------|-------|
+|---|---|
 | **Nombre de la herramienta** / Nom de l'eina | `My-Eutic Platform` |
-| **URL de la herramienta** / URL de l'eina | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/launch` |
+| **URL de la herramienta** / URL de l'eina | `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/launch` |
 | **Versión LTI** / Versió LTI | `LTI 1.3` |
 | **Tipo de clave pública** / Tipus de clau pública | `URL del conjunto de claves` / `URL del conjunt de claus` |
-| **Conjunto de claves públicas** / Conjunt de claus | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/jwks` |
-| **Iniciar URL de inicio de sesión** / URL d'inici | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/login` |
-| **URI(s) de redirección** / URI de redirecció | `https://hsevkyjsyqzzpmnvrhan.supabase.co/functions/v1/moodle-lti-connector/lti/launch` |
+| **Conjunto de claves públicas** / Conjunt de claus | `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/jwks` |
+| **Iniciar URL de inicio de sesión** / URL d'inici | `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/login` |
+| **URI(s) de redirección** / URI de redirecció | `https://mvp.my-eutic.org/functions/v1/moodle-lti-connector/lti/launch` |
 
 3. A **"Ús de la configuració de l'eina"**, selecciona: `Mostra com a eina preconfigurada`
 
@@ -170,5 +170,6 @@ Si tens problemes, contacta:
 ## Changelog
 
 | Data | Canvis |
-|------|--------|
+|---|---|
+| 2026-03-01 | Actualització a endpoints de producció LTI 1.3 Advantage (`mvp.my-eutic.org`) |
 | 2026-02-05 | Versió inicial de la guia pública |
