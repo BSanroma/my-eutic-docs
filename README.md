@@ -27,14 +27,16 @@ Frente a la ilusión de competencia que generan los modelos de lenguaje generali
 ## 📊 Escala Curricular y Métricas de Impacto
 
 * 📚 **+9.500 tareas socráticas interactivas** (+5.800 retos conceptualmente únicos y probados).
-* 🎓 **Educación Superior y Grados Universitarios**: Cobertura completa para grados y programas en *Digital Marketing, Digital Business, Administración y Dirección de Empresas (ADE), Economía, Habilidades Directivas y Toma de Decisiones*.
-* 🏫 **Educación Secundaria y Bachillerato**: Cobertura integral de materias y situaciones de aprendizaje.
+* 🎓 **Educación Superior y Grados Universitarios (Marco MCES-6)**:
+  * Cobertura curricular completa alineada con la **Matriu de Competències d'Educació Superior (MCES-6)**: *Pensamiento Crítico (CRT), Ética y Sostenibilidad (ETH), Agilidad de Aprendizaje (AGL), Argumentación Fundamentada (ARG), Innovación Aplicada (INN) y Gestión del Riesgo e Incertidumbre (RSK)*.
+  * Despliegues y asignaturas activas en **UIC Barcelona** (Máster en Data Science, Grado en ADE), **UOC** (Grado en Diseño - *Ètica i Sostenibilitat en el Disseny*), **ESIC Business & Marketing School** y **La Salle Campus Barcelona**.
+* 🏫 **Educación Secundaria y Bachillerato**: Cobertura integral de materias y situaciones de aprendizaje bajo descriptores de salida oficiales.
 * 🌐 **Trilingüe Nativo**: Despliegue en **Castellano, Catalán e Inglés** en paralelo para programas internacionales y centros plurilingües.
-* ⚙️ **Universal Curriculum Engine**: Capacidad para ingerir cualquier guía docente universitaria o currículo formativo y transformarlo en sesiones socráticas guiadas.
-* 📈 **Evidencia Empírica de Pilotos**:
-  * **+61% de incremento** en lenguaje reflexivo y profundidad argumentativa.
-  * **+7.000 mensajes socráticos** analizados en entornos de aula y seminario real.
-  * **92 horas** de tutoría 1:1 equivalente por cada cohorte analizada.
+* ⚙️ **Universal Curriculum Engine & CORTEX Socratic Forge**: Pipeline algorítmico capaz de ingerir guías docentes universitarias y planes de estudio para transformarlos en sesiones socráticas guiadas y contra-indicadores socráticos.
+* 📈 **Evidencia Empírica y Trazabilidad Forense**:
+  * **+61% de incremento** en lenguaje reflexivo y profundidad argumentativa documentada.
+  * **Informes Pedagógicos Unificados**: Auditoría de aprendizaje con código de sumisión (`SUB-XXXX`), citación textual indexada por mensaje (`msg_XX`) y **nivel de confianza de evidencia ≥ 95%** para acreditación académica (AQU, ANECA).
+  * **+7.000 mensajes socráticos** analizados en entornos de aula, campus virtual y seminario real.
 
 ---
 

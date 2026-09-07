@@ -28,15 +28,22 @@ graph LR
 ```
 
 ### 1. Asignación Ágil
-El docente puede elegir entre más de **9.500 tareas socráticas precargadas** (organizadas por grados universitarios, materias y niveles) o estructurar una tarea personalizada a partir de su propia guía docente en minutos.
+El docente puede elegir entre más de **9.500 tareas socráticas precargadas** (organizadas por grados universitarios, materias y niveles) o estructurar una tarea personalizada a partir de su propia guía docente en minutos gracias a CORTEX Socratic Forge.
 
 ### 2. Diálogo y Razonamiento Autónomo
 El estudiante interactúa en un entorno protegido contra copiar y pegar. El tutor virtual detecta evasivas o respuestas automatizadas y exige justificación fundada antes de dar por alcanzado un hito.
 
-### 3. Informe Pedagógico Individual
-En lugar de una nota numérica arbitraria, el profesor recibe:
-* **Citas textuales verificables**: Fragmentos exactos de la conversación que demuestran comprensión o señalan sesgos lógicos.
-* **Mapeo competencial**: Nivel de logro alcanzado en las competencias transversales del grado o materia.
+### 3. Informe Pedagógico Unificado (Auditoría Forense)
+En lugar de una nota numérica arbitraria, el profesor y la institución reciben una auditoría cognitiva formal:
+* **Código Único de Sumisión**: Registro criptográfico (`SUB-XXXXXXXX-XXXXXXXX`) que garantiza la no-manipulación.
+* **Citas textuales verificables**: Fragmentos exactos de la conversación indexados por turno de mensaje (`msg_XX`) que demuestran comprensión o señalan sesgos lógicos con un **nivel de confianza documental del 95%**.
+* **Mapeo competencial MCES-6 / LOMLOE**: Evaluación objetiva en competencias transversales universitarias:
+  * **CRT**: Pensamiento Crítico y discernimiento epistemológico.
+  * **ETH**: Ética aplicada, sostenibilidad y responsabilidad en la toma de decisiones.
+  * **AGL**: Agilidad de aprendizaje y adaptación ante nuevas restricciones.
+  * **ARG**: Argumentación lógica y fundamentación teórica/empírica.
+  * **INN**: Creatividad, originalidad y pensamiento lateral.
+  * **RSK**: Evaluación de riesgos, compensaciones e incertidumbre.
 * **Puntos de refuerzo sugeridos**: Diagnóstico claro para retroalimentar al alumno con precisión quirúrgica.
 
 ### 4. Retorno al Aula Presencial (Guía de Debate)
